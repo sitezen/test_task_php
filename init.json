@@ -1,0 +1,89 @@
+{
+  "models": [
+    {
+      "name": "Hendai",
+      "fuel_consumption": "10",
+      "break_propability": "0.5"
+    },
+    {
+      "name": "Luda",
+      "fuel_consumption": "10",
+      "break_propability": "1.5"
+    },
+    {
+      "name": "Homba",
+      "fuel_consumption": "7",
+      "break_propability": "0.5"
+    }
+  ],
+  "park": {
+    "places": 30
+  },
+  "drivers": [
+    {
+      "type": "default"
+    },
+    {
+      "type": "pro"
+    },
+    {
+      "type": "default"
+    },
+    {
+      "type": "default"
+    },
+    {
+      "type": "default"
+    },
+    {
+      "type": "default"
+    },
+    {
+      "type": "default"
+    },
+    {
+      "type": "pro"
+    },
+    {
+      "type": "default"
+    }
+  ],
+  "cars": [
+    {
+      "km": 7348,
+      "brand": "Homba"
+    },
+    {
+      "km": 479,
+      "brand": "Luda"
+    },
+    {
+      "km": 7348,
+      "brand": "Hendai"
+    },
+    {
+      "km": 0,
+      "brand": "Homba"
+    },
+    {
+      "km": 0,
+      "brand": "Luda"
+    },
+    {
+      "km": 2479,
+      "brand": "Luda"
+    },
+    {
+      "km": 9485,
+      "brand": "Luda"
+    },
+    {
+      "km": 0,
+      "brand": "Hendai"
+    },
+    {
+      "km": 8434,
+      "brand": "Hendai"
+    }
+  ]
+}
