@@ -1,0 +1,14 @@
+There is some taxi car park for 30 car places. Manager controls the number of cars and they brands.
+Cars using around 10 liters of fuel per 100 km.There is some propability of damaging of each car. Initially each car can get broken with propability 0.5% per day,
+but after each 1000rm it increases to 1%. 
+Car park uses 3 brands: Lada, Honda and Huinday.
+Propability of damage Lada brand is 3x than Huinday (it is etalon brand). 
+Honda saves 30% of fuel.
+Broken car will repairied in car park within 3 days, taking it one place.
+Driver getting a car for 24 hours.
+Common driver completes 10 orders by one working day. But car park also has experienced drivers, who saves 20% of fuel and doing 30% more orders.
+
+Todo: create set of classes describing this car park, with any initial data. Simulate working period and get some report.
+Initial data is coming in JSON format.
+
+Translated and completed by repozitory owner: https://github.com/sitezen/test_task_php 
